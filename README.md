@@ -7,6 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Iniciando+projeto;)](https://git.io/typing-svg)
 
-Npm init (para iniciar o node).
-Npm install readline-sync (instalando o pacote readline para pegar inputs no terminal).
-Node ./index.js (rodando o codigo).
+<p>Npm init (para iniciar o node).
+<p>Npm install readline-sync (instalando o pacote readline para pegar inputs no terminal).
+<p>Node ./index.js (rodando o codigo).
